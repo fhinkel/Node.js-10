@@ -1,0 +1,7 @@
+{
+    "editor.parameterHints.enabled": false,
+    "editor.quickSuggestions": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": false,
+    "editor.quickSuggestionsDelay": 1000000
+}
